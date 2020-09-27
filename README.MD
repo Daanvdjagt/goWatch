@@ -21,5 +21,6 @@ POST localhost:8080/api/v1/movie - Creates a movie, has to include json object t
 
 GET localhost:8080/api/v1/movie - Lists all movies that are currently in the db instance.  
 
-GET localhost:080/api/v1/movie/imdbid - Lists a specific movie that is indexed by their IMDBID example request would be: localhost:8080/api/v1/movie/tt0816692 for Interstellar.  
+GET localhost:080/api/v1/movie/imdbid - Lists a specific movie that is indexed by their IMDBID   
+An example request would be: localhost:8080/api/v1/movie/tt0816692 for Interstellar.  
 
