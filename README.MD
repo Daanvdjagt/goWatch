@@ -12,10 +12,10 @@ POST localhost:8080/api/v1/movie - Creates a movie, has to include json object t
 
 ```
 {  
-	"ImdbId" : "tt0816692",  
-	"Name" : "Interstellar",  
-	"Year" : 2014,  
-	"ImdbScore" : 8.7  
+	"ImdbId" : "tt6723592",  
+	"Name" : "Tenet",  
+	"Year" : 2020,  
+	"ImdbScore" : 7,8  
 }
 ```
 
