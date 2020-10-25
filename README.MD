@@ -24,7 +24,7 @@ By default this api runs on port 8080, this can be changed by editing line 65 in
 
 
 ## API Endpoints
-Endpoints are based on the default port of 8080.  
+Endpoints are based on the default port of 8000.  
 
 GET 127.0.0.1:8000/api/v1/movie - Lists all movies that are currently in the db instance.  
 
