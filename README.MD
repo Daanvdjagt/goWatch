@@ -19,7 +19,8 @@ By default this api runs on port 8080, this can be changed by editing line 65 in
 `npm install`  
 `npm run serve`  
 ```
-	Frontend is hosted 
+	Frontend is hosted at 127.0.0.1:8080  
+	Input an IMDBID into the input value and press submit to fetch and add the movie. 
 ```
 
 
