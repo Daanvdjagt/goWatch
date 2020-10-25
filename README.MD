@@ -1,5 +1,4 @@
 ### This is a golang rest api made as an exercise.
-By default this api runs on port 8080, this can be changed by editing line 65 in the "main.go" to whatever port you like.
 
 ## API Setup
 `cd ./backend`
