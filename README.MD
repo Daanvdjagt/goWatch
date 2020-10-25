@@ -14,10 +14,10 @@ By default this api runs on port 8080, this can be changed by editing line 65 in
 `go run ./main.go`
 
 ## Frontend setup
-`cd ..`
-`cd ./front`
-`npm install`
-`npm run serve`
+`cd ..`  
+`cd ./front`  
+`npm install`  
+`npm run serve`  
 ```
 	Frontend is hosted 
 ```
