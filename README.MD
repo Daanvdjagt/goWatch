@@ -5,10 +5,10 @@ By default this api runs on port 8080, this can be changed by editing line 65 in
 `cd ./backend`
 
 #### All the imports
-`go get github.com/gin-gonic/gin`
-`go get github.com/jinzhu/gorm`
-`go get github.com/mattn/go-sqlite3`
-`go get github.com/tidwall/gjson`
+`go get github.com/gin-gonic/gin`  
+`go get github.com/jinzhu/gorm`  
+`go get github.com/mattn/go-sqlite3`  
+`go get github.com/tidwall/gjson`  
 
 #### Start the server
 `go run ./main.go`
